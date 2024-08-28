@@ -19,7 +19,7 @@
 
 <h2 align="center">🚀 About Me</h2>
 
-As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud Computing, Artificial Intelligence/Machine Learning, and high-quality streaming technologies. With a proven track record of driving innovation, I am committed to leveraging advanced AI solutions to boost productivity and foster creative problem-solving in technology. My passion for pushing the boundaries of modern technology equips me to deliver exceptional results in complex and dynamic environments.
+ Growing up in the mountains of Lebanon taught me a lot about what it means to be happy. Surrounded by nature's calm and beauty, I found myself drawn to the quiet, introspective moments where I could explore my curiosity. With limited access to entertainment, I turned to computers, and that’s where I discovered coding. What started as a simple fascination quickly grew into a deep passion for computer science. The problem-solving, logic, and creativity involved in coding captured my imagination. The mountains gave me the space to dive into this world, and it was there that I realized the endless possibilities that technology offers. 
 
 <h3 align="center">Git Stats</h3>
 
@@ -27,7 +27,7 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
  
   <img src="https://streak-stats.demolab.com/?user=AdamGhaida&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
   <br>
-   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdamGhaida&custom_title=Kenan's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdamGhaida&custom_title=Adam's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
 <br>
 <div align="center">
 <table>
@@ -46,44 +46,7 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=AdamGhaida&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="Kenan's GitHub stats">
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdamGhaida&theme=highcontrast&hide_border=true">
-
-<!-- ### Top Repositories -->
-<!-- <div align="center">
-  <table>
-    <tr>
-      <td>
-        <a href="https://github.com/KenanGain/fast-gemini-nano">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=KenanGain&repo=fast-gemini-nano&theme=highcontrast&hide_border=true&border_radius=15" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/KenanGain/Weather-3d-ai-app.git">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=KenanGain&repo=Weather-3d-ai-app&theme=highcontrast&hide_border=true&border_radius=15" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/KenanGain/moviedjangoai">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=KenanGain&repo=moviedjangoai&theme=highcontrast&hide_border=true&border_radius=15" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/KenanGain/speech-to-text.git">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=KenanGain&repo=speech-to-text&theme=highcontrast&hide_border=true&border_radius=15" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div> -->
-
-<details>
-  <summary style="font-size: 1.17em; font-weight: bold;">Git Stats Summary</summary>
-  <img src="https://myreadme.vercel.app/api/embed/KenanGain?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="KenanGain's GitHub Stats">
-</details>
 
 <br>
 
