@@ -19,7 +19,7 @@
 
 <h2 align="center">🚀 About Me</h2>
 
- Growing up in the mountains of Lebanon taught me a lot about what it means to be happy. Surrounded by nature's calm and beauty, I found myself drawn to the quiet, introspective moments where I could explore my curiosity. With limited access to entertainment, I turned to computers, and that’s where I discovered coding. What started as a simple fascination quickly grew into a deep passion for computer science. The problem-solving, logic, and creativity involved in coding captured my imagination. The mountains gave me the space to dive into this world, and it was there that I realized the endless possibilities that technology offers. 
+ Growing up in the mountains of Lebanon taught me a lot about what it means to work hard. Surrounded by nature's calm and beauty, I found myself drawn to the quiet, introspective moments where I could explore my curiosity. At a very young age, I turned to computers, and that’s where I discovered coding. What started as a simple fascination quickly grew into a deep passion for computer science. The problem-solving, logic, and creativity involved in coding captured my imagination. The mountains gave me the space to dive into this world, and it was there that I realized the endless possibilities that technology offers. 
 
 <h3 align="center">Git Stats</h3>
 
