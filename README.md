@@ -43,15 +43,6 @@
 
 <br>
 
-<h3 align="center">Stack overflow</h3>
-<div align="center">
-<a href="https://stackoverflow.com/users/12940476/adam-a">
-<img src="https://stackoverflow.com/users/flair/12940476.png" width="208" height="58" />
-</a>
-</div>
-
-
-
 </div>
 
 <h2 align="center">🛠️ Tech Stack</h2>
@@ -67,12 +58,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center" style="border: none;">
-        <a href="https://nextjs.org/" style="color: white;">
-          <img src="https://skillicons.dev/icons?i=nextjs" width="50" height="50" alt="Next.js"/>
-        </a>
-        <br>Next.js
-      </td>
       <td align="center" style="border: none;">
         <a href="https://tailwindcss.com/" style="color: white;">
           <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" width="50" height="50" alt="Tailwind CSS"/>
