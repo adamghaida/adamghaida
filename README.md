@@ -1,9 +1,9 @@
 
 ### adam ghaida
 ---
-i study computer science @ cmu.
+i study computer science @ [cmu](https://cs.cmu.edu).
 
-i'm currently building the future of internet @ [Mail 0](https://0.email).
+i'm currently building the future of internet @ [Mail0](https://0.email) (yc X25).
 
 i also write @ adamghaida.com.
 ---
