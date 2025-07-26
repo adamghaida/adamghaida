@@ -4,7 +4,7 @@
 
 i study computer science @ [cmu](https://cs.cmu.edu).
 
-i'm currently building the future of internet @ [Mail0](https://0.email) ( yc X25 ).
+i'm currently building the future of email @ [Mail0](https://0.email) ( yc X25 ).
 
 i also write [here](adamghaida.com).
 
