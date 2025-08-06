@@ -2,7 +2,7 @@
 ### adam ghaida
 ---
 
-i study computer science @ [cmu](https://cs.cmu.edu).
+i study computer science @ [carnegie mellon](https://cs.cmu.edu).
 
 i'm currently building the future of email @ [Mail0](https://0.email) ( yc X25 ).
 
