@@ -4,7 +4,7 @@
 
 i study computer science @ [carnegie mellon](https://cs.cmu.edu)
 
-i'm currently building the future of email @ [Orchid](https://orchid.ai) ( yc X25 )
+i'm currently building the future of AI tooling and work @ [Orchid](https://orchid.ai) ( yc X25 )
 
 i also write [here](https://tnf.adamghaida.com)
 
