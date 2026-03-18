@@ -6,7 +6,7 @@ i study computer science @ [carnegie mellon](https://cs.cmu.edu)
 
 i'm currently building the future of AI tooling and work @ [Orchid](https://orchid.ai) ( yc X25 )
 
-i also write [here](https://tnf.adamghaida.com)
+i also write [here](https://tnf.adam.cm)
 
 ---
-[![twt](https://img.shields.io/badge/twt-@adamghaida-0A66C2?style=flat&logo=x)](https://x.com/adamghaida) [![linkedin](https://img.shields.io/badge/LinkedIn-@adamghaida-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/adamghaida) [![website](https://img.shields.io/badge/my-website-0A66C2?style=flat)](https://adamghaida.com)
+[![twt](https://img.shields.io/badge/twt-@adamghaida-0A66C2?style=flat&logo=x)](https://x.com/adamghaida) [![linkedin](https://img.shields.io/badge/LinkedIn-@adamghaida-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/adamghaida) [![website](https://img.shields.io/badge/my-website-0A66C2?style=flat)](https://adam.cm)
