@@ -1,5 +1,5 @@
 
-### adam ghaida –– [adam.cm](https://adam.cm)
+### adam ghaida – [adam.cm](https://adam.cm)
 ---
 
 i study computer science and philosophy @ [carnegie mellon](https://cs.cmu.edu)
